@@ -14,4 +14,4 @@ if d == 0:
     print(-b / (2 * a))
 elif d > 0:
     print((-b + (d ** (1 / 2))) / line,
-          (-b - (d ** (1 / 2))))
+          (-b - (d ** (1 / 2)/ line) ))
